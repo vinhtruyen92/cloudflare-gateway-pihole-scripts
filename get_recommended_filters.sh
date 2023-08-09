@@ -7,7 +7,6 @@ touch input.csv
 urls=(
   https://abpvn.com/android/abpvn.txt
   https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-  https://abpvn.com/filter/abpvn-oH75eO.txt
   
 )
 
