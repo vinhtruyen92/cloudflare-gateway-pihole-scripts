@@ -8,7 +8,8 @@ urls=(
   https://abpvn.com/android/abpvn.txt
   https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/hosts-VN
-  https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts
+  https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
+  https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/gambling-nl.txt
   https://small.oisd.nl/
   https://nsfw.oisd.nl/
 )
