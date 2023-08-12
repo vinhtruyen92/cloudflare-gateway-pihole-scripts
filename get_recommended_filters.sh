@@ -7,6 +7,7 @@ touch input.csv
 urls=(
   https://abpvn.com/android/abpvn.txt
   https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
   https://small.oisd.nl/
   https://nsfw.oisd.nl/
 )
