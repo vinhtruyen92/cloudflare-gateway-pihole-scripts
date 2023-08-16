@@ -12,7 +12,8 @@ urls=(
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
   https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
   https://raw.githubusercontent.com/robonxt/CleanYourReddit/master/CleanYourReddit.txt
-  https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt  
+  https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+  https://gitlab.com/badmojr/1hosts/-/raw/main/mini/hosts.txt
 )
 
 # loop through the urls and download each file with curl
