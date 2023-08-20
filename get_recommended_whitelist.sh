@@ -8,7 +8,6 @@ touch whitelist.csv
 # declare an array of urls
 urls=(
     https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains
-    https://vcbdigibank.vietcombank.com.vn
 )
 
 # loop through the urls and download each file with curl
