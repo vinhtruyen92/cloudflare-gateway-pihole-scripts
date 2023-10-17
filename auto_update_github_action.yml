@@ -16,6 +16,7 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: 16
+    - uses: gautamkrishnar/keepalive-workflow@v1
     
     - name: Clone repository and switch to v1 branch
       run: |
