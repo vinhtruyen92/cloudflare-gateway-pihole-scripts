@@ -5,15 +5,13 @@ touch input.csv
 
 # declare an array of urls
 urls=(
+  https://easylist.to/easylist/easylist.txt
   https://abpvn.com/android/abpvn.txt
   https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/hosts-VN
   https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/gambling-nl.txt
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
   https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
-  https://raw.githubusercontent.com/robonxt/CleanYourReddit/master/CleanYourReddit.txt
-  https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
-  https://gitlab.com/badmojr/1hosts/-/raw/main/mini/hosts.txt
 )
 
 # loop through the urls and download each file with curl
